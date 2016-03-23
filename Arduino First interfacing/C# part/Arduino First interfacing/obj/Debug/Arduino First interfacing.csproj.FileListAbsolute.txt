@@ -1,0 +1,6 @@
+c:\users\root\documents\visual studio 2015\Projects\Arduino First interfacing\Arduino First interfacing\bin\Debug\Arduino First interfacing.exe.config
+c:\users\root\documents\visual studio 2015\Projects\Arduino First interfacing\Arduino First interfacing\bin\Debug\Arduino First interfacing.exe
+c:\users\root\documents\visual studio 2015\Projects\Arduino First interfacing\Arduino First interfacing\bin\Debug\Arduino First interfacing.pdb
+c:\users\root\documents\visual studio 2015\Projects\Arduino First interfacing\Arduino First interfacing\obj\Debug\Arduino First interfacing.csprojResolveAssemblyReference.cache
+c:\users\root\documents\visual studio 2015\Projects\Arduino First interfacing\Arduino First interfacing\obj\Debug\Arduino First interfacing.exe
+c:\users\root\documents\visual studio 2015\Projects\Arduino First interfacing\Arduino First interfacing\obj\Debug\Arduino First interfacing.pdb
